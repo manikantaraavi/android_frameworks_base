@@ -185,5 +185,8 @@
 
      <java-symbol type="bool" name="config_hasAlertSlider" />
 
-  <java-symbol type="integer" name="config_alertSliderLocation" />
+     <java-symbol type="integer" name="config_alertSliderLocation" />
+
+     <!-- Device has OnePlus haptic motor -->
+     <java-symbol type="bool" name="config_hasOnePlusHapticMotor" />
 </resources>
